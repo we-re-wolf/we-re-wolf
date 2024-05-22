@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advance Python programming
 - 💞️ I’m looking to collaborate on my projects which I upload on github open for contribution.
 - 📫 How to reach me :-
-        (i)  we.re.wolf@yandex.com
+        (i)  aritramondal.work@gmail.com
         (ii) www.linkedin.com/in/aritra-mondal-0776881b0/
 
 <!---
